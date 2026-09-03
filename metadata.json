@@ -2,5 +2,7 @@
   "name": "Sarvam Pipes - Leading PVC Pipes & Fittings Manufacturer",
   "description": "Manufacturer of high-quality uPVC, CPVC, SWR, casing, and agricultural pipes and fittings based in MIDC, Pune, India.",
   "requestFramePermissions": [],
-  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
 }
